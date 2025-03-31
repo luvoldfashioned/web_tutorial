@@ -1,0 +1,31 @@
+/* TAG SELECTORS */
+h1 {
+    /* 규칙은 알파벳 순으로 나열하는 것이 좋다 */
+    color:red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: green;
+}
+
+
+/* CLASS SELECTORS */
+.bacon {
+    background-color: gold;
+    position: relative;
+    left: 30px;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+ID SELECTORS
+#heading {
+    color: blue;
+}
