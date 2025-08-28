@@ -6,6 +6,7 @@ obsidian에서 정리했던 마크다운 파일도 업로드 하였는데 문법
 
 ### obsidian graph view
 obsidian에서 백링크를 통해 체계적으로 작성한 노트들입니다
+
 <img src = "https://github.com/user-attachments/assets/d84b0db3-6058-4726-8618-bc8f4eb1ca2f" width=50%>
 
 <img src = "https://github.com/user-attachments/assets/fe4c3969-83dd-4a74-a09f-201b6d068c91" width=70%>
